@@ -1,0 +1,7 @@
+#HOME /root/Dokumenty/sysop/main1
+#INNA 5
+echo "hello!"
+#INNA
+./testy INNA
+./testy HOME
+./limit
